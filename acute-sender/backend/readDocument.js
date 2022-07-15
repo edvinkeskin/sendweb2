@@ -5,7 +5,7 @@ async function readDocument() {
      * Connection URI. Update <username>, <password>, and <your-cluster-url> to reflect your cluster.
      * See https://docs.mongodb.com/drivers/node/ for more details
      */
-    const uri = "mongodb+srv://edvinkeskin:Istanbul4045@acutesender20.e0ds5.mongodb.net/?retryWrites=true&w=majority"
+    const uri = "mongodb+srv://edvinkeskin:acutesender0@acutesender20.e0ds5.mongodb.net/?retryWrites=true&w=majority"
 
     /**
      * The Mongo Client you will use to interact with your database
